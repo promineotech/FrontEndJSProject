@@ -1,4 +1,4 @@
-# Front End Javascript Week 6 Assignment
+# Intro to JavaScript Week 6 Coding Assignment
 
 Points possible: 70
 
@@ -31,11 +31,23 @@ Write a Unit Test using Mocha and Chai for at least one of the functions you wri
 
 ## Screenshots of Code:
 
+![Screen Shot 2020-07-11 at 9 36 17 AM](https://user-images.githubusercontent.com/66037960/156244973-ebca808a-89b4-4ced-a4e3-b44cfb5a07ac.jpg)
+![Screen Shot 2020-07-11 at 9 36 36 AM](https://user-images.githubusercontent.com/66037960/156244974-efb550c3-7f07-46fc-bcd0-d5db820d19e0.jpg)
+![Screen Shot 2020-07-11 at 9 36 46 AM](https://user-images.githubusercontent.com/66037960/156244980-41e65b73-666a-4d61-8357-79530f2e68c0.jpg)
+![Screen Shot 2020-07-11 at 9 36 55 AM](https://user-images.githubusercontent.com/66037960/156244983-26139276-110a-4b6b-863e-ef43830ba006.jpg)
+![Screen Shot 2020-07-11 at 9 37 29 AM](https://user-images.githubusercontent.com/66037960/156244975-54823483-aabc-4d16-96c8-8fc883db5f8e.jpg)
+![Screen Shot 2020-07-11 at 9 37 41 AM](https://user-images.githubusercontent.com/66037960/156244970-6eaf8059-fa9d-49d8-b7ee-5003762f6a7d.jpg)
+![Screen Shot 2020-07-11 at 9 38 14 AM](https://user-images.githubusercontent.com/66037960/156244967-30872f27-e87c-452f-b119-b0a1ca11ba77.jpg)
+
 
 ## Screenshots of Running Application:
+![Screen Shot 2020-07-11 at 9 37 18 AM](https://user-images.githubusercontent.com/66037960/156244978-36715b01-af7d-4279-8ede-e2f3818d9e55.jpg)
+![Screen Shot 2020-07-11 at 9 38 34 AM](https://user-images.githubusercontent.com/66037960/156245017-363176b4-d7c2-41b7-a9c4-e672ee10f121.jpg)
+
+
 
 
 ## URL to GitHub Repository:
 
-https://github.com/promineotech/
+https://github.com/promineotech/FrontEndJSProject
 
